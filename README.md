@@ -1,4 +1,4 @@
-<h1 align="center">Assalamu-walaikum, myself 👋, I'm Nafisa Anjum</h1>
+<h1 align="center">Assalamu-walaikum👋,myself Nafisa Anjum</h1>
 <h3 align="center">Developing Creative Solutions with Proficiency in Java</h3>
 
 - 🔭 I’m currently working on **ServiceNow**

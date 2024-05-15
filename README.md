@@ -1,6 +1,8 @@
 <h1 align="center">Assalamu-walaikum👋,myself Nafisa Anjum</h1>
 <h3 align="center">Developing Creative Solutions with Proficiency in Java</h3>
 
+<IMG SRC="standard.gif">
+
 - 🔭 I’m currently working on **ServiceNow**
 
 - 🌱 I’m currently learning **Spring Boot**

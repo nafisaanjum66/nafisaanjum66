@@ -1,19 +1,18 @@
-<h1 align="center">Assalamu-walaikum👋,myself Nafisa Anjum</h1>
+<h1 align="center">Assalamu-walaikum,myself Nafisa Anjum</h1>
 <h3 align="center">Developing Creative Solutions with Proficiency in Java</h3>
 
-<IMG SRC="standard.gif">
+<div align="center"><IMG SRC="standard.gif"></div>
 
-- 🔭 I’m currently working on **ServiceNow**
+- Currently working on **ServiceNow**
 
-- 🌱 I’m currently learning **Spring Boot**
+- Currently learning **Spring Boot**
 
-- 👨‍💻 All of my projects are available at [https://github.com/nafisaanjum66](https://github.com/nafisaanjum66)
+- All of my projects are available at [https://github.com/nafisaanjum66](https://github.com/nafisaanjum66)
 
-- 💬 Ask me about **Java & DSA**
+- Proficiency at **Java & DSA**
 
-- 📫 How to reach me **nafisaanjumdana@gmail.com**
+- Reach me via **nafisaanjumdana@gmail.com**
 
-- ⚡ Fun fact **Coffee? Actually it's on the LOGO 😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -14,7 +14,7 @@
 
 - Reach me via **nafisaanjumdana@gmail.com**
 
-- You can visit my portfolio **https://nafisaanjum66.github.io/portfolio/**
+- You can visit [My Portfolio](https://nafisaanjum66.github.io/portfolio/)
 
 
 <h3 align="left">Connect with me:</h3>

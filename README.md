@@ -8,7 +8,7 @@
 
 - Currently learning **Spring Boot**
 
-- All of my projects are available at [https://github.com/nafisaanjum66]([Nafisa's Github](https://github.com/nafisaanjum66))
+- All of my projects are available at [Nafisa's Github](https://github.com/nafisaanjum66)
 
 - Proficiency at **Java & DSA**
 

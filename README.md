@@ -3,8 +3,14 @@
 
 <div align="center"><IMG SRC="Nafisa Anjum.gif"></div>
 
-
-- Currently working on **ServiceNow**
+<div>
+  <table>
+    <tr>
+      <th></th>
+      <th></th>
+    </tr>
+    <tr>
+      <td>- Currently working on **ServiceNow**
 
 - Currently learning **Spring Boot**
 
@@ -14,7 +20,13 @@
 
 - Reach me via **nafisaanjumdana@gmail.com**
 
-- You can visit [My Portfolio](https://nafisaanjum66.github.io/portfolio/)
+- You can visit [My Portfolio](https://nafisaanjum66.github.io/portfolio/)</td>
+
+      <td><div align="center"><IMG SRC="Nafisa Anjum.gif"></div></td>
+    </tr>
+  </table>
+</div>
+
 
 
 <h3 align="left">Connect with me:</h3>

@@ -65,6 +65,13 @@
 
 ---
 
+### 📈 Contribution Graph:
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=nafisaanjum66&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
 ### 🎥 Featured GIF:
 <p align="center">
   <img src="Getter.gif" alt="My Gif" width="300px"/>

@@ -1,7 +1,7 @@
 <h1 align="center">Assalamu-walaikum,myself Nafisa Anjum</h1>
 <h3 align="center">Developing Creative Solutions with Proficiency in Java</h3>
 
-<div align="center"><IMG SRC="Getter.gif"></div>
+<div align="center"><IMG SRC="Nafisa Anjum.gif"></div>
 
 
 - Currently working on **ServiceNow**

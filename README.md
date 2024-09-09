@@ -65,14 +65,16 @@
 
 ---
 
-### 📈 Contribution Graph:
+### 🎥 Featuring:
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=nafisaanjum66&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="Getter.gif" alt="My Gif" width="300px"/>
 </p>
 
 ---
 
-### 🎥 Featured GIF:
+### 🙏 Thank You!
 <p align="center">
-  <img src="Getter.gif" alt="My Gif" width="300px"/>
+  Thank you for visiting my GitHub profile! I truly appreciate your time and interest.  
+  If you have any suggestions, feel free to reach out to me.  
+  Let's build something amazing together!
 </p>

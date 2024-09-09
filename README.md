@@ -7,12 +7,12 @@
   <table>
   <tr>
     <td>
-      - Currently working on **ServiceNow**  
-      - Currently learning **Spring Boot**  
-      - All of my projects are available at [Nafisa's GitHub](https://github.com/nafisaanjum66)  
-      - Proficiency at **Java & DSA**  
-      - Reach me via **nafisaanjumdana@gmail.com**  
-      - You can visit [My Portfolio](https://nafisaanjum66.github.io/portfolio/)
+      - Currently working on **ServiceNow**  <br>
+      - Currently learning **Spring Boot**  <br>
+      - All of my projects are available at [Nafisa's GitHub](https://github.com/nafisaanjum66)  <br>
+      - Proficiency at **Java & DSA**  <br>
+      - Reach me via **nafisaanjumdana@gmail.com**  <br>
+      - You can visit [My Portfolio](https://nafisaanjum66.github.io/portfolio/)<br>
     </td>
     <td>
       <img src="Getter.gif" alt="My Gif" width="200px"/>

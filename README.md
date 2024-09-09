@@ -5,26 +5,20 @@
 
 <div>
   <table>
-    <tr>
-      <th></th>
-      <th></th>
-    </tr>
-    <tr>
-      <td>- Currently working on **ServiceNow**
-
-- Currently learning **Spring Boot**
-
-- All of my projects are available at [Nafisa's Github](https://github.com/nafisaanjum66)
-
-- Proficiency at **Java & DSA**
-
-- Reach me via **nafisaanjumdana@gmail.com**
-
-- You can visit [My Portfolio](https://nafisaanjum66.github.io/portfolio/)</td>
-
-      <td><div align="center"><IMG SRC="Nafisa Anjum.gif"></div></td>
-    </tr>
-  </table>
+  <tr>
+    <td>
+      - Currently working on **ServiceNow**  
+      - Currently learning **Spring Boot**  
+      - All of my projects are available at [Nafisa's GitHub](https://github.com/nafisaanjum66)  
+      - Proficiency at **Java & DSA**  
+      - Reach me via **nafisaanjumdana@gmail.com**  
+      - You can visit [My Portfolio](https://nafisaanjum66.github.io/portfolio/)
+    </td>
+    <td>
+      <img src="Getter.gif" alt="My Gif" width="200px"/>
+    </td>
+  </tr>
+</table>
 </div>
 
 

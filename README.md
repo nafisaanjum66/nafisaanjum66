@@ -6,11 +6,13 @@
 
 ## 👩‍💼 About Me
 
-- 💼 Working as a **ServiceNow Developer**
-- 🛠 Experienced in building **Custom Applications, Catalog Solutions & Automation**
-- 🌱 Currently learning **Spring Boot & Backend Architecture**
-- 💡 Strong foundation in **Java & Data Structures**
-- 📍 Open to Backend / ServiceNow Opportunities
+💼 Working as a ServiceNow Developer on live enterprise projects  
+🛠 Experienced in building Custom Applications, Data Models & End-to-End Workflow Automation  
+⚙ Skilled in App Engine Studio, Flow Designer, Business Rules, ACLs, Client Scripts & Script Includes  
+📊 Experienced with ITSM & Strategic Portfolio Management (Demand, Project & Resource Management)  
+🔐 Focused on secure access control, performance optimization & scalable solution design  
+🌱 Continuously exploring advanced ServiceNow features & backend architecture  
+📍 Open to ServiceNow / Platform Engineering Opportunities
 
 📫 **Email:** nafisaanjumdana@gmail.com  
 🔗 **Portfolio:** https://nafisaanjum66.github.io/portfolio/  
